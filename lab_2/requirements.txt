@@ -1,0 +1,4 @@
+string
+re
+nltk
+numpy
