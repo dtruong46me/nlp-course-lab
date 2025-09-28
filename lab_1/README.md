@@ -2,15 +2,19 @@
 
 ### Description
 
-Bài thực hành này cung cấp các kỹ thuật cơ bản để trích xuất nội dung văn bản từ nhiều định dạng phổ biến, sau đó thực hiện các bước làm sạch dữ liệu sơ bộ
+Mục tiêu của bài thực hành là trích xuất nội dung văn bản từ các định dạng phổ biến như PDF, DOCX, JSON và làm sạch dữ liệu văn bản thô sử dụng các kỹ thuật xử lý chuỗi cơ bản.
 
-### Objectives
+### Instructions
+1. Trích xuất văn bản từ các định dạng tệp khác nhau:
+   - PDF: Sử dụng thư viện PyPDF2 để trích xuất văn bản từ tệp PDF.
+   - DOCX: Sử dụng thư viện python-docx để trích xuất văn bản từ tệp DOCX.
+   - JSON: Sử dụng thư viện json tích hợp sẵn để trích xuất văn bản từ tệp JSON.
 
-Mục tiêu của bài thực hành gồm 2 phần:
-- **Trích xuất dữ liệu**: Đọc và lấy nội dung text từ các định dạng phổ biến như `.pdf`, `.doc`, `.json`.
-- **Làm sạch văn bản**: Sử dụng các biểu tức chính quy (Regular Expressions) để chuẩn hóa và làm sạch chuỗi văn bản đã trích xuất
+2. Kết hợp các đoạn văn bản đã trích xuất từ các định dạng tệp khác nhau thành một chuỗi văn bản duy nhất.
 
-### Dataset
-
-- **Link:** https://linkhere.com/#
-- **Hướng dẫn**: Download data và store vào folder `./lab_1/data/`
+3. Làm sạch dữ liệu văn bản thô:
+   - Loại bỏ các ký tự đặc biệt và dấu câu.
+   - Chuyển đổi tất cả văn bản thành chữ thường.
+   - Xóa các khoảng trắng thừa.
+   
+4. In ra văn bản đã làm sạch.
