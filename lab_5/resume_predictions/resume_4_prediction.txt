@@ -1,0 +1,38 @@
+--- Predictions for Resume 4 ---
+
+## Name
+- Alok Khandai
+
+## Designation
+- Operational Analyst
+
+## Location
+- Bengaluru
+
+## Email Address
+- indeed.com/r/Alok-Khandai/5be849e443b8f467
+
+## Years of Experience
+- 3.5 Years
+
+## Companies worked at
+- Microsoft
+- Microsoft Corporation
+
+## Degree
+- B.Tech in Computer Science and Engineering in CSE
+
+## Skills
+- Database (3 years), SQL (3 years), Sql Dba
+
+ADDITIONAL INFORMATION
+
+TECHNICAL PROFICIENCY
+❖ Operating Environment: […] Windows95/98/XP/NT
+❖ Database Tool: SQL Management Studio (MSSQL), Business
+Development Studio, Visual studio 2005
+❖ Database Language: SQL, PL/SQL
+❖ Ticket Tracking Tool: Service Now
+❖ Reporting Tools: MS Reporting Services, SAS
+❖ Languages: C, C++, PL/SQL
+

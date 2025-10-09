@@ -1,0 +1,35 @@
+--- Predictions for Resume 6 ---
+
+## Name
+- Anvitha Rao
+
+## Designation
+- Automation developer
+
+## Email Address
+- indeed.com/r/Anvitha-Rao/9d6acc68cc30c71c
+
+## Companies worked at
+- SAP Labs
+
+## Degree
+- Bachelor of Engineering in Computer Science
+- Masters in Computer Science
+
+## Skills
+- JAVA (1 year), C++ (Less than 1 year), Hadoop (Less than 1 year), HADOOP (Less than 1 year),
+CSS (Less than 1 year)
+
+LINKS
+
+https://www.linkedin.com/in/anvitha-d-rao-65a068a7
+
+ADDITIONAL INFORMATION
+
+Technical Skills:
+Programming Languages: C, C++, HTML/CSS, Java, Python, Javascript
+
+Technologies: IoT, MySQL, PostgreSQL, D3js, Hadoop and Spark, Gephi
+
+https://www.linkedin.com/in/anvitha-d-rao-65a068a7
+

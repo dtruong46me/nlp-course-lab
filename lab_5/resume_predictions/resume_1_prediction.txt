@@ -1,0 +1,33 @@
+--- Predictions for Resume 1 ---
+
+## Name
+- Abhishek Jha
+
+## Companies worked at
+- Accenture
+
+## Location
+- Bengaluru
+
+## Email Address
+- indeed.com/r/Abhishek-Jha/10e7a8cb732bc43a
+
+## Designation
+- Application Development Associate
+
+## Degree
+- 10th
+- B.E in Information science and engineering
+
+## College Name
+- B.v.b college of engineering and technology
+- Kendriya Vidyalaya
+
+## Skills
+- C (Less than 1 year), Database (Less than 1 year), Database Management (Less than 1 year),
+Database Management System (Less than 1 year), Java (Less than 1 year)
+
+ADDITIONAL INFORMATION
+
+Technical Skills
+

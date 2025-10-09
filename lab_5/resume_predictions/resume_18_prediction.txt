@@ -1,0 +1,26 @@
+--- Predictions for Resume 18 ---
+
+## Name
+- Dinesh Reddy
+
+## Companies worked at
+- Cisco
+- Cisco Bangalore
+- cisco
+
+## Location
+- Bengaluru
+
+## Email Address
+- indeed.com/r/Dinesh-Reddy/139711455c45e1ad
+
+## Designation
+- Devops Engineer
+- software engineer
+
+## Degree
+- BSC
+
+## Skills
+- AWS Devops
+

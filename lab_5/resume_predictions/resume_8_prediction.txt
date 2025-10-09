@@ -1,0 +1,33 @@
+--- Predictions for Resume 8 ---
+
+## Name
+- Arun Elumalai
+
+## Location
+- Chennai
+
+## Email Address
+- indeed.com/r/Arun-Elumalai/26575d617d50ea04
+
+## Designation
+- QA Tester
+
+## Companies worked at
+- Accenture
+
+## Degree
+- Bachelor of Engineering in Automobile Engineering
+
+## Skills
+- ANSYS (Less than 1 year), CATIA (Less than 1 year), CREO (Less than 1 year), PARAMETRIC
+(Less than 1 year), PYTHON (Less than 1 year), Selenium, Selenium Webdriver, Testing,
+Functional Testing, Automation Testing, Regression Testing, Quality Assurance
+
+ADDITIONAL INFORMATION
+
+TECHNICAL SKILLS
+
+• Languages - Python
+
+• Software/Tools - Selenium, WAF, Sauce Labs, Jenkins, Creo parametric 2.0, Catia V6, Ansys
+
