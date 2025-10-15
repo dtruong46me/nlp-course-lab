@@ -1,0 +1,867 @@
+,question_title,question_type
+0,What are metaclasses in Python?,0
+1,Hidden features of Python,0
+2,"What is the effect of extern ""C"" in C++?",0
+3,When should I use Cross Apply over Inner Join?,0
+4,Embedding Base64 Images,0
+5,What do Clustered and Non clustered index actually mean?,0
+6,What is the difference between @staticmethod and @classmethod in Python?,0
+7,What are bitwise shift (bit-shift) operators and how do they work?,0
+8,"What does ""connection reset by peer"" mean?",0
+9,When to use self over $this?,0
+10,What are the differences between type() and isinstance()?,0
+11,What's the difference between a method and a function?,0
+12,"What is the ""-->"" operator in C++?",0
+13,What is a bus error?,0
+14,Why can't I use background image and color together?,0
+15,When to use margin vs padding in CSS,0
+16,JavaScript isset() equivalent,0
+17,"How does ""cat << EOF"" work in bash?",0
+18,CSS Font Border?,0
+19,What issues should be considered when overriding equals and hashCode in Java?,0
+20,Regular cast vs. static_cast vs. dynamic_cast,0
+21,open() in Python does not create a file if it doesn't exist,0
+22,What is the difference between POST and GET?,0
+23,How can I check if a URL exists via PHP?,1
+24,Java tree data-structure?,0
+25,What is the Difference Between Mercurial and Git?,0
+26,What is the argument for printf that formats a long?,0
+27,Why use def main()?,0
+28,What is console.log?,0
+29,When to use virtual destructors?,0
+30,"What is a plain English explanation of ""Big O"" notation?",0
+31,"""implements Runnable"" vs. ""extends Thread""",0
+32,How do I enumerate an enum?,1
+33,Object comparison in JavaScript,1
+34,Get day of week in SQL 2005/2008,1
+35,Best approach to remove time part of datetime in SQL Server,1
+36,How to do associative array/hashing in JavaScript,1
+37,How do I pull from a Git repository through an HTTP proxy?,1
+38,"How can I get jQuery to perform a synchronous, rather than asynchronous, Ajax request?",1
+39,How do I get time of a Python program's execution?,1
+40,Increase heap size in Java,1
+41,Access-Control-Allow-Origin Multiple Origin Domains?,1
+42,What's a quick way to comment/uncomment lines in Vim?,1
+43,Redefine tab as 4 spaces,1
+44,Parsing JSON with Unix tools,1
+45,How to list the properties of a JavaScript object?,1
+46,How do I split a string with any whitespace chars as delimiters?,1
+47,Random string generation with upper case letters and digits in Python,1
+48,How to short circuit Array.forEach like calling break?,1
+49,Sort Multi-dimensional Array by Value,1
+50,Run cURL commands from Windows console,1
+51,Regex for numbers only,1
+52,How to change background color in android app,1
+53,How do you printf an unsigned long long int(the format specifier for unsigned long long int)?,1
+54,"Python, Matplotlib, subplot: How to set the axis range?",1
+55,How to import CSV file data into a PostgreSQL table?,1
+56,"How do I create a message box with ""Yes"", ""No"" choices and a DialogResult?",1
+57,How do you split a list into evenly sized chunks?,1
+58,How do you give a C# Auto-Property a default value?,1
+59,Insert into a MySQL table or update if exists,1
+60,How do you extract POST data in Node.js?,1
+61,How do you get the index of the current iteration of a foreach loop?,1
+62,Write a number with two decimal places SQL server,1
+63,"How to fix ""The ConnectionString property has not been initialized""",2
+64,How do you remove an invalid remote branch reference from Git?,2
+65,Column name or number of supplied values does not match table definition,2
+66,SQL Server IF NOT EXISTS Usage?,2
+67,ssl_error_rx_record_too_long and Apache SSL,2
+68,long long in C/C++,2
+69,How to append a char to a std::string?,2
+70,Rethrowing exceptions in Java without losing the stack trace,2
+71,"Cannot resolve the collation conflict between ""SQL_Latin1_General_CP1_CI_AS"" and ""Latin1_General_CI_AS"" in the equal to operation",2
+72,How to Find the Default Charset/Encoding in Java?,2
+73,How do I insert datetime value into a SQLite database?,2
+74,Oracle ORA-12154: TNS: Could not resolve service name Error?,2
+75,Why did Servlet.service() for servlet jsp throw this exception?,2
+76,Variable might not have been initialized error,2
+77,preventDefault() on an  tag,2
+78,SSL received a record that exceeded the maximum permissible length.,2
+79,UTL_FILE.FOPEN() procedure not accepting path for directory?,2
+80,"Python Error: ""ValueError: need more than 1 value to unpack""",2
+81,PDOException Ã©ÂÂ¥Ã¦Â¸Âould not find driverÃ©Â?,2
+82,"What is the ""right"" way to iterate through an array in Ruby?",0
+83,How do I remove packages installed with Python's easy_install?,1
+84,Downloading a picture via urllib and python,2
+85,IF EXIST C:\directory\ goto a else goto b problems windows XP batch files,2
+86,"Getting ""type or namespace name could not be found"" but everything seems ok?",2
+87,'console' is undefined error for Internet Explorer,2
+88,Could not locate Gemfile,2
+89,Why am I getting a NoClassDefFoundError in Java?,2
+90,How do I fix a NoSuchMethodError?,2
+91,Negative matching using grep (match lines that do not contain foo),2
+92,Error installing mysql2: Failed to build gem native extension,2
+93,Script not served by static file handler on IIS7.5,2
+94,Maximum request length exceeded.,2
+95,Convert INT to DATETIME (SQL),2
+96,"Error 1046 No database Selected, how to resolve?",2
+97,Warning: mysql_connect(): [2002] No such file or directory (trying to connect via unix:///tmp/mysql.sock) in,2
+98,Difference between div id and div class,0
+99,"What is the difference between public, private, protected, and having no access modifier?",0
+100,C# loop - break vs. continue,0
+101,Interface vs Abstract Class (general OO),0
+102,"What's your favorite ""programmer"" cartoon?",0
+103,"Difference between private, public, and protected inheritance",0
+104,Hidden Features of C#?,0
+105,Why does Java have transient fields?,0
+106,"WhatÃ©ÂÂ¥Ã¦ÂªÂ the difference between ""Array()"" and ""[]"" while declaring a JavaScript array?",0
+107,What is the difference between Views and Materialized Views in Oracle?,0
+108,What is the difference between application server and web server?,0
+109,How do I set a column value to NULL in SQL Server Management Studio?,1
+110,Get Value of a Edit Text field,1
+111,Decode Base64 data in Java,1
+112,How do I position one image on top of another in HTML?,1
+113,LINQ's Distinct() on a particular property,1
+114,How to create a generic array in Java?,1
+115,Extracting extension from filename in Python,1
+116,How to replace a character by a newline in Vim?,1
+117,Showing which files have changed between two revisions,1
+118,PHP Pass variable to next page,1
+119,How do I use raw_input in Python 3,1
+120,Command to collapse all sections of code?,1
+121,Asynchronously load images with jQuery,2
+122,unbound method f() must be called with fibo_ instance as first argument (got classobj instance instead),2
+123,"Failed to connect to mailserver at ""localhost"" port 25",2
+124,Strange out of memory issue while loading an image to a Bitmap object,2
+125,"Cannot simply use PostgreSQL table name (""relation does not exist"")",2
+126,ASP.NET Custom Validator Client side & Server Side validation not firing,2
+127,Could not establish trust relationship for SSL/TLS secure channel -- SOAP,2
+128,Access restriction on class due to restriction on required library rt.jar?,2
+129,How to Concatenate Numbers and Strings to Format Numbers in T-SQL?,2
+130,Best Free Text Editor Supporting *More Than* 4GB Files?,0
+131,Equivalent of String.format in jQuery,0
+132,Optimistic vs. Pessimistic locking,0
+133,What is the equivalent of Java's final in C#?,0
+134,Why does 2 mod 4 = 2?,0
+135,Hidden Features of Xcode,0
+136,What are POD types in C++?,0
+137,What is the difference between a framework and a library?,0
+138,Multiple Indexes vs Multi-Column Indexes,0
+139,Environment variable to control java.io.tmpdir?,0
+140,What are the applications of binary trees?,0
+141,Use 'class' or 'typename' for template parameters?,0
+142,Why use a READ UNCOMMITTED isolation level?,0
+143,Do you need to dispose of objects and set them to null?,0
+144,Is there any WinSCP equivalent for linux?,0
+145,How to show Error & Warning Message Box in .NET/ How to Customize MessageBox,1
+146,"C# Syntax - Split String into Array by Comma, Convert To Generic List, and Reverse Order",0
+147,Cross-Domain Cookies,0
+148,iPad browser WIDTH & HEIGHT standard,0
+149,MySQL: Set user variable from result of query,0
+150,What is the yield keyword used for in C#?,0
+151,Best practice to run Linux service as a different user,0
+152,Why can't I do ?,0
+153,What is the LD_PRELOAD trick?,0
+154,Connection timeout for SQL server,0
+155,End of File (EOF) in C,0
+156,Unix tail equivalent command in Windows Powershell,0
+157,What is the difference between instanceof and Class.isAssignableFrom(...)?,0
+158,"What are the uses of ""using"" in C#",0
+159,What's the quickest way to multiply multiple cells by another number?,0
+160,SQL left join vs multiple tables on FROM line?,0
+161,Does VBA have Dictionary Structure?,0
+162,accessing a variable from another class,1
+163,POST data in JSON format,1
+164,AWS ssh access 'Permission denied (publickey)' issue,1
+165,RegEx: Grabbing values between quotation marks,1
+166,How to decrypt a password from SQL server?,1
+167,How to draw a dotted line with css?,1
+168,Run a single test method with maven,1
+169,SQL selecting rows by most recent date,1
+170,How to get the Android device's primary e-mail address,1
+171,"How to insert text in a td with id, using JavaScript",1
+172,Create table (structure) from existing table,1
+173,What parameters should I use in a Google Maps URL to go to a lat-lon?,1
+174,How to add a PHP page to WordPress?,1
+175,Strtotime() doesn't work with dd/mm/YYYY format,1
+176,Disable validation of HTML5 form elements,1
+177,Find and replace string values in Python list,1
+178,Border for an Image view in Android?,1
+179,How do I base64 encode (decode) in C?,1
+180,How to get a password from a shell script without echoing,1
+181,How can I compile a Java program in Eclipse without running it?,1
+182,How can I remove a button or make it invisible in Android?,1
+183,How to process a file in PowerShell line-by-line as a stream,1
+184,Remove first 4 characters of a string with PHP,1
+185,How to run .APK file on emulator,1
+186,How to keep the console window open in Visual C++?,1
+187,How do I fix the indentation of an entire file in Vi?,1
+188,Formula to determine brightness of RGB color,1
+189,How do you clone an Array of Objects in Javascript?,1
+190,Change color and appearance of drop down arrow,1
+191,Loop through the rows of a particular DataTable,1
+192,Select unique or distinct values from a list in UNIX shell script,1
+193,Interface defining a constructor signature?,1
+194,Timeout a command in bash without unnecessary delay,1
+195,PHP - Simple way to read single record from MySQL,1
+196,Sending HTML email using Python,1
+197,Insert text into textarea with jQuery,1
+198,How do I use boolean variables in Perl?,2
+199,WCFTestClient The HTTP request is unauthorized with client authentication scheme 'Anonymous',2
+200,Read String line by line,2
+201,Changing upload_max_filesize on PHP,2
+202,MySQL LIKE IN()?,2
+203,JavaScript replace/regex,2
+204,"Permission denied (publickey,keyboard-interactive)",2
+205,LINQ: When to use SingleOrDefault vs. FirstOrDefault() with filtering criteria,2
+206,Overriding the java equals() method - not working?,2
+207,Ajax success event not working,2
+208,Download and open PDF file using Ajax,2
+209,How to clear jQuery validation error messages?,2
+210,java.lang.IllegalStateException: Cannot (forward | sendRedirect | create session) after response has been committed,2
+211,Reading from text file until EOF repeats last line,2
+212,"""The breakpoint will not currently be hit.",2
+213,Avoid duplicates in INSERT INTO SELECT query in SQL Server,2
+214,How do I truncate a .NET string?,2
+215,"Sending email with attachments from C#, attachments arrive as Part 1.2 in Thunderbird",2
+216,Fastest way to determine if an integer's square root is an integer,2
+217,Android: Add a textview to linear layout programmatically,2
+218,"How to fix ""Referenced assembly does not have a strong name"" error?",2
+219,"Easy interview question got harder: given numbers 1..100, find the missing number(s)",2
+220,Can I embed a custom font in an iPhone application?,2
+221,jQuery UI Dialog Box - does not open after being closed,2
+222,How to check for a Null value in VB.NET,2
+223,POST request via RestTemplate in JSON,2
+224,How to convert QString to std::string?,2
+225,How to trigger jQuery change event in code,2
+226,How to make a phone call using intent in Android?,2
+227,Hibernate cannot simultaneously fetch multiple bags,2
+228,SSL_connect returned=1 errno=0 state=SSLv3 read server certificate B: certificate verify failed,2
+229,How can I add a column to a Postgresql database that doesn't allow nulls?,2
+230,How to debug JavaScript / jQuery event bindings with Firebug or similar tools?,2
+231,Error handling in Bash,2
+232,How do I pass multiple parameters in Objective-C?,2
+233,How to add directory to classpath in an application run profile in IntelliJ IDEA?,2
+234,How to use wait and notify in Java without IllegalMonitorStateException?,2
+235,Write to UTF-8 file in Python,2
+236,What is the standard way to add N seconds to datetime.time in Python?,0
+237,What is (functional) reactive programming?,0
+238,Is there a way to make HTML5 video fullscreen?,0
+239,Python loop counter in a for loop,0
+240,What is the Java equivalent for LINQ?,0
+241,NOT IN clause and NULL values,0
+242,What should I set JAVA_HOME to on OSX,0
+243,Symbolicating iPhone App Crash Reports,0
+244,Polymorphism vs Overriding vs Overloading,0
+245,"What is the ""assert"" function?",0
+246,What's the best way to validate an XML file against an XSD file?,0
+247,Is there a way to word-wrap long words in a div?,0
+248,Groovy String to int,0
+249,I never really understood: what is POSIX?,0
+250,"What are the differences between the urllib, urllib2, and requests module?",0
+251,Relative Paths in Javascript in an external file,0
+252,vector vs. list in STL,0
+253,Why doesn't Java allow overriding of static methods?,0
+254,Can an int be null in Java?,0
+255,What is the best JavaScript code to create an img element,0
+256,Things possible in IntelliJ that aren't possible in Eclipse?,0
+257,Want custom title / image / description in facebook share link from a flash app,0
+258,Role of Bias in Neural Networks,0
+259,How Does Modulus Divison Work,0
+260,INNER JOIN vs LEFT JOIN performance in SQL Server,0
+261,Is there a JavaScript/jQuery DOM change listener?,0
+262,Which passwordchar shows a black dot (Ã©Â? in a winforms textbox?,0
+263,What does jQuery.fn mean?,0
+264,What's the difference between fill_parent and wrap_content?,0
+265,What is ultimately a time_t typedef to?,0
+266,What is the difference between function and procedure in PL/SQL?,0
+267,Why is using the JavaScript eval function a bad idea?,0
+268,Capture screenshot of active window?,1
+269,How do I lock the orientation to portrait mode in a iPhone Web Application?,1
+270,How do I run PHP code when a user clicks on a link?,1
+271,Use jquery to set value of div tag,1
+272,Configuring Git over SSH to login once,1
+273,Python - How do I pass a string into subprocess.Popen (using the stdin argument)?,1
+274,Getting attributes of Enum's value,1
+275,How can I process each letter of text using Javascript?,1
+276,How to check visibility of software keyboard in Android?,1
+277,How do I make my string comparison case insensitive?,1
+278,How do I escape a single quote?,1
+279,How to change checkbox's border style in CSS?,1
+280,"How to convert a JSON string to a Map<String, String> with Jackson JSON",1
+281,Switch statement for string matching in JavaScript,1
+282,How to create a CPU spike with a bash command,1
+283,Java how to replace 2 or more spaces with single space in string and delete leading and trailing spaces,1
+284,HTML checkbox onclick called in Javascript,1
+285,Returning multiple values from a C++ function,1
+286,Run certain code every n seconds,1
+287,Trim last character from a string,1
+288,How to do joins in LINQ on multiple fields in single join,1
+289,How can I clone an SQL Server database on the same server in SQL Server 2008 Express?,1
+290,Calculating Pearson correlation and significance in Python,1
+291,How to replace special characters in a string?,1
+292,Force SSL/https using .htaccess and mod_rewrite,1
+293,How to go from one page to another page using javascript?,1
+294,Search for all occurrences of a string in a mysql database,1
+295,Sort a single String in Java,1
+296,How to add element to C++ array?,1
+297,How do I remove all .pyc files from a project?,1
+298,use space as a delimiter with cut command,1
+299,How do I calculate a point on a circleÃ©ÂÂ¥Ã¦ÂªÂ circumference?,1
+300,std::string to float or double,2
+301,What is the syntax for an inner join in LINQ to SQL?,0
+302,What is stdClass in PHP?,0
+303,What is the best way to filter a Java Collection?,0
+304,What is the difference between MVC and MVVM?,0
+305,What is an unsigned char?,0
+306,What is a StackOverflowError?,0
+307,What is the difference between Set and List?,0
+308,What is the difference between Integrated Security = True and Integrated Security = SSPI?,0
+309,"What is a correct mime type for docx, pptx etc?",0
+310,What is Node.js?,0
+311,What is a segmentation fault?,0
+312,What is a stored procedure?,0
+313,What is a JavaBean exactly?,0
+314,"What is the reason behind ""non-static method cannot be referenced from a static context""?",0
+315,What is the difference between a deep copy and a shallow copy?,0
+316,What is the scope of variables in JavaScript?,0
+317,What is a smart pointer and when should I use one?,0
+318,"What is the ""continue"" keyword and how does it work in Java?",0
+319,What is a race condition?,0
+320,"What is the difference between #include <filename> and #include ""filename""?",0
+321,What is the difference between visibility:hidden and display:none?,0
+322,"What is polymorphism, what is it for, and how is it used?",0
+323,What is JSON and why would I use it?,0
+324,What is an index in SQL?,0
+325,What is the command to truncate a SQL Server log file?,0
+326,"Server.MapPath("".",0
+327,What is the best way to remove a table row with jQuery?,0
+328,"What is the equivalent of the C++ Pair<L,R> in Java?",0
+329,What is so bad about singletons?,0
+330,What is JSONP all about?,0
+331,What is correct content-type for excel files?,0
+332,What is simplest way to read a file into String?,0
+333,How to convert String object to Boolean Object?,1
+334,How to get a JavaScript object's class?,1
+335,How to run an EXE file in PowerShell with parameters with spaces and quotes,1
+336,How to declare variable and use it in the same SQL script?,1
+337,How to set the current working directory?,1
+338,How to find the port for MS SQL Server 2008?,1
+339,How to create empty text file from a batch file?,1
+340,How to call a method after a delay in Android,1
+341,How to convert an array to object in PHP?,1
+342,How to iterate over arguments in a Bash script,1
+343,How to prevent auto-closing of console after the execution of batch file.,1
+344,How to create an array of object literals in a loop?,1
+345,How to switch databases in psql?,1
+346,How to handle command-line arguments in PowerShell,1
+347,CSS div element - how to show horizontal scroll bars only?,1
+348,"How to convert Milliseconds to ""X mins, x seconds"" in Java?",1
+349,How to get a random number in Ruby,1
+350,How to count the number of set bits in a 32-bit integer?,1
+351,How to set the authorization header using curl,1
+352,How to check if a program exists from a Bash script?,1
+353,How to get(extract) a file extension in PHP?,1
+354,How to check if an object is a list or tuple (but not string)?,1
+355,How to convert byte array to string and vice versa?,1
+356,How to upload files to server using JSP/Servlet?,1
+357,How to see the changes between two commits without commits in-between?,1
+358,How to initialize log4j properly?,1
+359,How to uninstall Python 2.7 on a Mac OS X 10.6.4?,1
+360,How to unzip a file using the command line?,1
+361,How to find the foreach index,1
+362,How to add onload event to a div element?,1
+363,How to create strings containing double quotes in Excel formulas?,1
+364,How to execute a file within the python interpreter?,1
+365,How to call a parent class function from derived class function?,1
+366,Fixed Table Cell Width,2
+367,Proper way to declare custom exceptions in modern Python?,2
+368,Getting java.lang.ClassNotFoundException: org.apache.commons.logging.LogFactory exception,2
+369,"Iterating through a Collection, avoiding ConcurrentModificationException when removing in loop",2
+370,com.mysql.jdbc.exceptions.jdbc4.CommunicationsException: Communications link failure,2
+371,MetadataException: Unable to load the specified metadata resource,2
+372,How to fix java.net.SocketException: Broken pipe?,2
+373,"Why would a ""java.net.ConnectException: Connection timed out"" exception occur when URL is up?",2
+374,Error message 'Unable to load one or more of the requested types.,2
+375,Why do I get an UnsupportedOperationException when trying to remove an element from a List?,2
+376,System.Security.SecurityException when writing to Event Log,2
+377,Eclipse - java.lang.ClassNotFoundException,2
+378,The type initializer for 'MyClass' threw an exception,2
+379,"""Exception has been thrown by the target of an invocation"" error (mscorlib)",2
+380,"""Too many values to unpack"" Exception",2
+381,android.view.InflateException: Binary XML file line #12: Error inflating class <unknown>,2
+382,java.util.zip.ZipException: error in opening zip file,2
+383,java.net.SocketException: Software caused connection abort: recv failed,2
+384,javax.faces.application.ViewExpiredException: View could not be restored,2
+385,IllegalMonitorStateException on wait() call,2
+386,hibernate exception: org.hibernate.AnnotationException: No identifier specified for entity: com..domain.idea.MAE_MFEView,2
+387,'System.OutOfMemoryException' was thrown when there is still plenty of memory free,2
+388,How to solve COM Exception Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG))?,2
+389,Content is not allowed in Prolog SAXParserException,2
+390,hibernate: LazyInitializationException: could not initialize proxy,2
+391,"Android 1.6: ""android.view.WindowManager$BadTokenException: Unable to add window -- token null is not for an application""",2
+392,ClassNotFoundException com.mysql.jdbc.Driver,2
+393,Hibernate Error: org.hibernate.NonUniqueObjectException: a different object with the same identifier value was already associated with the session,2
+394,How to avoid a System.Runtime.InteropServices.COMException?,2
+395,"C# Error ""The type initializer for ... threw an exception",2
+396,java.net.MalformedURLException: no protocol,2
+397,com.jcraft.jsch.JSchException: UnknownHostKey,2
+398,What is JavaScript's highest integer value that a number can go to without losing precision?,0
+399,Why are Python lambdas useful?,0
+400,Check whether variable is number or string in JavaScript,1
+401,Using cURL with a username and password?,1
+402,Numpy array dimensions,0
+403,How do I convert a column of text URLs into active hyperlinks in Excel?,1
+404,"In C, how should I read a text file and print all strings",1
+405,Pass Method as Parameter using C#,1
+406,How can I deserialize JSON to a simple Dictionary in ASP.NET?,1
+407,Inserting a pdf file in latex,1
+408,Finding local IP addresses using Python's stdlib,1
+409,How do I debug Node.js applications?,1
+410,Finding duplicate values in MySQL,1
+411,Is there a Boolean data type in Microsoft SQL Server like there is in MySQL?,0
+412,Can grep show only words that match search pattern?,1
+413,jQuery selectors on custom data attributes using HTML5,1
+414,How can I return multiple values from a function in C#?,1
+415,"""Conversion to Dalvik format failed with error 1"" on external JAR",2
+416,Using jQuery to center a DIV on the screen,1
+417,Binding a WPF ComboBox to a custom list,2
+418,How do I calculate someone's age in C#?,1
+419,"Move existing, uncommitted work to a new branch in Git",1
+420,How do I ignore files in Subversion?,1
+421,How do I change the data type for a column in MySQL?,1
+422,'has_key()' or 'in'?,0
+423,What is a typedef enum in Objective-C?,0
+424,What are MVP and MVC and what is the difference?,0
+425,"Port 80 is being used by SYSTEM (PID 4), what is that?",2
+426,What is the current directory in a batch file?,0
+427,CSS3 Border Opacity?,0
+428,Why is Dictionary preferred over Hashtable?,0
+429,How do I see what character set a MySQL database / table / column is?,1
+430,Open terminal here in Mac OS finder,0
+431,Difference between gravity and layout_gravity on Android,0
+432,Append same text to every cell in a column in Excel,1
+433,Difference between proxy server and reverse proxy server,0
+434,How do I do a case-insensitive string comparison?,1
+435,Is there a destructor for Java?,0
+436,ASP.NET MVC controller actions that return JSON or partial html,1
+437,Converting a string to an integer on Android,1
+438,Return multiple values in JavaScript?,1
+439,java.util.Date to XMLGregorianCalendar,1
+440,Finding duplicate rows in SQL Server,1
+441,How can I get dictionary key as variable directly in Python (not by searching from value)?,1
+442,JavaScript error (Uncaught SyntaxError: Unexpected end of input),2
+443,"Why doesn't ""cd"" work in a shell script?",0
+444,Pretty git branch graphs,0
+445,"JavaScript open in a new window, not tab",1
+446,CSS: set background image with opacity?,1
+447,List of Stored Procedures/Functions Mysql Command Line,1
+448,Non-static variable cannot be referenced from a static context,2
+449,LEFT OUTER JOIN in LINQ,0
+450,HTTP status code for update and delete?,1
+451,Difference between binary semaphore and mutex,0
+452,How do you round UP a number in Python?,1
+453,How does JavaScript .prototype work?,1
+454,Java 256-bit AES Password-Based Encryption,0
+455,Syntax for a single-line Bash infinite while loop,1
+456,"Html.ActionLink as a button or an image, not a link",1
+457,Difference between JOIN and INNER JOIN,0
+458,"Is there a ""previous sibling"" CSS selector?",0
+459,"What is the difference between public, private, and protected?",0
+460,What is a daemon thread in Java?,0
+461,What is attr_accessor in Ruby?,0
+462,What is the !!,0
+463,What is the best way to parse html in C#?,0
+464,What is the equivalent of 'describe table' in SQL Server?,0
+465,"What is the difference between SQL, PL-SQL and T-SQL?",0
+466,"What is meant with ""const"" at end of function declaration?",0
+467,What is the best way to test for an empty string with jquery-out-of-the-box?,0
+468,"What is the difference between JSF, Servlet and JSP?",0
+469,What is a good regular expression to match a URL?,0
+470,What is Inversion of Control?,0
+471,"What is the difference between const int*, const int * const, and int const *?",0
+472,What is the difference between HTTP_HOST and SERVER_NAME in PHP?,0
+473,What is SELF JOIN and when would you use it?,0
+474,What is the best way to auto-generate INSERT statements for a SQL Server table?,0
+475,"Explanation of ""ClassCastException"" in Java",0
+476,Android: java.lang.SecurityException: Permission Denial: start Intent,2
+477,exception in initializer error,2
+478,com.mysql.jdbc.exceptions.jdbc4.CommunicationsException:Communications link failure,2
+479,java.io.IOException: Server returned HTTP response code: 500,2
+480,Java SecurityException: signer information does not match,2
+481,"this.getClass().getClassLoader().getResource(""..."") and NullPointerException",2
+482,NoInitialContextException error,2
+483,"Why do I get ""Exception; must be caught or declared to be thrown"" when I try to compile my Java code?",2
+484,IllegalArgumentException or NullPointerException for a null parameter?,2
+485,java.io.FileNotFoundException: (Access is denied),2
+486,c++ exception : throwing std::string,2
+487,System.IO.IOException: file used by another process,2
+488,"Why do I get the ""Unhandled exception type IOException""?",2
+489,ResultSet exception - before start of result set,2
+490,Java: unparseable date exception,2
+491,Java Try and Catch IOException Problem,2
+492,"How to solve ""java.io.IOException: error=12, Cannot allocate memory"" calling Runtime#exec()?",2
+493,Why Response.Redirect causes System.Threading.ThreadAbortException?,2
+494,javax.persistence.PersistenceException: No Persistence provider for EntityManager named customerManager,2
+495,An error occurred while executing the command definition.,2
+496,"C# : ""A first chance exception of type 'System.InvalidOperationException'""",2
+497,.Net HttpWebRequest.GetResponse() raises exception when http status code 400 (bad request) is returned,2
+498,How to resolve javax.mail.AuthenticationFailedException issue?,2
+499,java.lang.RuntimeException: Uncompilable source code - what can cause this?,2
+500,"Tokenizing Error: java.util.regex.PatternSyntaxException, dangling metacharacter '*'",2
+501,Exception of type 'System.OutOfMemoryException' was thrown.,2
+502,Uncaught Error: SECURITY_ERR: DOM Exception 18 when I try to set a cookie,2
+503,How to sanity check a date in Java,1
+504,Is there an application to generate Winform Code?,0
+505,Catching window.print() from SWT Browser,1
+506,Java Timestamp valueOf,1
+507,"Code Synthesis doesn't seem to generate a ""valid"" xml tree",2
+508,Client Customizations,0
+509,"autocomplete algorithms, papers, strategies, etc",1
+510,Compiling .cs from .Net Applications,1
+511,What's the  best open source game to learn from?,0
+512,How to edit EXIF data in .NET,1
+513,What's the best way to get started in modern game programming and application programming?,1
+514,Create SubSet of a dataSet ASP.Net,1
+515,automatic incrementing filename,1
+516,What is the default session timeout value in ASP.NET?,0
+517,How can i make a Method that rounds to the next 5er digit?,1
+518,How do I bind a ComboBox so the displaymember is concat of 2 fields of source datatable?,1
+519,Where do I find the MysqlDumpSlow command?,0
+520,Getting SlowAES and RijndaelManaged class in .NET to play together,2
+521,Skype Addon in C#,0
+522,Are there penalties for Enum Singletons?,0
+523,Generating Postscript using PHP: browser offers to save file,0
+524,MySQL: preferred column type for (product) prices?,0
+525,Objective C class problem,0
+526,ggplot2 Scatter Plot Labels,0
+527,NHibernate to dynamically create/alter/delete tables,0
+528,Best practice for structuring a 'large' Rails app,2
+529,Checking if the class attribute is empty and then removing it if true with jQuery,0
+530,WPF: Invalidate controls in ControlTemplate,2
+531,TortoiseSVN identifies modified file - so why does svn diff report no differences?,0
+532,FreeMM vs ShareMem,0
+533,Creating an unlimited SqlServer Trace,2
+534,PHP DateTime microseconds always returns 0,0
+535,Generic Java Framework to Manage Bidirectional Associations and Inverse Updates,0
+536,Change new projects warning level in VS2008 (Express),0
+537,SQL Server 2005 Full Text Search over multiple tables and columns,0
+538,Client-Server Application with Plug-in Architecture,2
+539,VS2010 (Express) debugger trapping Ctrl+C in Console app,2
+540,Check if element at position [x] exists in the list,1
+541,How can GNOME keyrings be accessed from Ruby?,1
+542,Where is the best place to associate a 'form display text' with SQLAlchemy mapped property?,1
+543,Does not exist in current context c#,2
+544,Querying associated collection using MongoMapper scopes?,0
+545,Windows based MySQL profiling tool,1
+546,"""No such file or directory"" but it exists",1
+547,Override reversed(...) in Python 2.5,2
+548,Losing SVN history on files during refactoring,2
+549,java: combined instanceof and cast?,2
+550,Programs running aapt in android sdk from shell and from sbt,0
+551,Three20 : how to pass a class of objects between 2 views,1
+552,Auto-submitting a form with jquery,0
+553,LinqtoSQL with a where clause containing a List?,1
+554,Time complexity of Hash table,0
+555,Passing SQL Server connection around (node to c#),2
+556,Null pointer exception when ran outside netbeans,2
+557,How do I pass a property expression back to the controller?,1
+558,"Codeigniter Form Helper - How to add additional parameters to ""select"" control?",1
+559,maintaining cache state in different servers,2
+560,UITableView Does not show data in ipad app,0
+561,ruby on rails link_to an image,1
+562,DragDropEffect.Copy Resets itself to None,2
+563,To display PDF in webview using google doc service in offline mode,1
+564,Problems loading external script that worked when I loaded it from my view,0
+565,iOS7 compatibility with App on iPad,2
+566,How to send custom message to one friend using iOS facebook-graph-api?,2
+567,Cannot access Java resource when packaged in Mac app bundle,2
+568,Table scan on internal tables,0
+569,Error installing WCF Data Service Client for Windows Store Apps version 2,2
+570,Why do the following program leaks memory?,0
+571,Android view .setTranslationY() view cropped,2
+572,SQL Server : query with multiple LEFT OUTER JOIN and WHERE conditions,0
+573,Is it perfectly legal to declare a pure virtual function twice (in two classes in an hierarchy),0
+574,Can not run grails project. Server fails to start,2
+575,Tracking an email,1
+576,Codeigniter where clause is not working,2
+577,Java Sorting alphabet and get position number,1
+578,Javascript create Object by array,1
+579,Installing Google play/Chrome browser on genymotion,2
+580,JQuery .html() and .text() returning empty values in Production,1
+581,DataTemplate in Silverlight 5 to show list data,1
+582,Can't run emulator in XCode 5,1
+583,How do I use classes from an imported library in netbeans (java),1
+584,How to Change Foreground Color of Image in View,1
+585,iOS : Inserting multiple rows in UITableview with insertRowsAtIndexPaths,0
+586,my link button working only on load of lightbox,0
+587,Android count number of times user changes orientation,1
+588,How to disable specific dates in Magento Order Delivery Date extensions calendar,0
+589,Navigation error,2
+590,Nuxeo studio and custom UI possibility,0
+591,Triple nested quotes in XML,1
+592,Which is economical for getting Date in String format? creating date objects every time or using date instance thru calendar object,1
+593,UITabBarController show views only if logged in,1
+594,"how do i correctly use clip-rule=""evenodd"" so i can cut one shape out of another?",1
+595,Finding each rows closest value within the same table,1
+596,for loop reading files line by line,1
+597,Google Analytics API V3 - HTTP Error: Unable to connect on live server (localhost works fine),2
+598,Event ports with Firebird 1.0.3 and firewall setup,1
+599,"Why would you choose to use the ternary operator (?:) over a ""traditional"" if..else block?",0
+600,Put an image over capture image from camera,1
+601,math.random function with step option?,1
+602,CSS Float Left and then Right,2
+603,Query of Queries failing in Coldfusion 10,0
+604,get the ids when more than one checkbox is checked,0
+605,how to login in the same form for admin and user,1
+606,What is the point of using a 2d TextureRegion array?,0
+607,What is the proper way to use codecs' encoding in Python?,0
+608,errors with adding cordova sms plugin in worklight 6.0,1
+609,programming WHERE section in sql,1
+610,"Android CTS: ""Error during Sync: timeout""",2
+611,Export all AD data via Get-ADUser,0
+612,Simple way to any checkbox cheked or any inputbox filled,0
+613,SSH Error while trying to connect to Google Compute Instance,2
+614,"What are the numbers such as -100, +100, -200, +200 and etc, when using ta-lib in Python?",0
+615,How to send broadcast message to console in Linux from C program,1
+616,Comparing two csv files matching and merging using perl,1
+617,stty: standard input: Invalid argument when using pdsh or ssh,1
+618,jsf 2 custom composite component with Primefaces,1
+619,Using phonegap to develop an Android app,0
+620,exit the process once Jar is completed,2
+621,Getting message Review the SQL script to be applied on the database,2
+622,"Pythonic way of checking if all values in kwargs are the string ""false""",1
+623,Creating symbolic links in AIX 6.1 server,1
+624,angular iterate over json,0
+625,Error Installing twilio iOS SDK,1
+626,Unix Shell scripting query on sed,1
+627,How to swipe gesture segue back to previous view ios?,1
+628,ios Objective C why does a method with no name work,0
+629,Gson : StackOverflowError,0
+630,"Key board appears every time when it open the home activity of my app,UNABLE to HIDE KEYBOARD",2
+631,"""Order cannot be fulfilled"" error after updating order status in Amazon MWS",2
+632,Electron browser icon not showing in Linux,2
+633,Hadoop concatenate files recursively maintaining directory structure,2
+634,NSTableView unhideRowsAtIndexes crashes,0
+635,Continuously delete contents of EditText on button hold Android,0
+636,Eclipse without project,0
+637,need to remove last polyline and create current polyline,2
+638,Querying user_meta table to look up email in the wp_users table,2
+639,Plotting points on a map with D3,2
+640,Sonata admin dynamic admin list due to sortable,0
+641,results ordering by the query string,1
+642,Why postgres show two different format for same interval value?,0
+643,Is it important to add AutoCloseable in java?,0
+644,Running MapReduce job in Oozie,2
+645,"Rails tests, fixture & class loading order",0
+646,Detecting Which users are actively in a certain order,0
+647,Gettting a reload page call to fire only once,2
+648,"Is this pattern a service locator, or a command factory, or something else?",0
+649,"Spring Data REST - JsonGenerationException: Can not write a number, expecting field name",2
+650,Unable to run google maps apiv2,1
+651,FileNotFoundException trying to send JSON to .NET webservice using HttpURLConnection,2
+652,saving dask dataframe in bcolz format,0
+653,How to append several lines when iterating through List?,1
+654,How to inactivate class in Tools window of project of Android Studio,1
+655,Duplicating a git repository and its GIT-LFS settings,2
+656,RestKit POST object with NULL parameters,2
+657,How to print from a random 2 dimensional array,1
+658,Should.js: check if two arrays contain same strings,0
+659,Cocos2d-X how to change Android minSDKVersion,1
+660,Is there any way to hide attributes in a Rails Jbuilder template?,0
+661,"Rails Async Active Job doesn't execute code, while inline does",0
+662,calling a variable in select -expandproperty,2
+663,Java batch processing job listener afterJob get id of a job,0
+664,server socket error timer management,0
+665,EF code-first 1:* 1:0..1 relationship between the same models,2
+666,Is there a more efficient way to reset the contents of cells that have been edited in a JTable back to what they previously were,2
+667,UTF8 with php pear DB package not working,0
+668,Effect for logo automatic resize on the menu,1
+669,Using UNION instead of OR in MySQL?,0
+670,"Dealing with loop, fluidRow and column in shiny",1
+671,Error creating bean with name 'sessionFactory' Unable to instantiate default tuplizer [org.hibernate.tuple.entity.PojoEntityTuplizer],2
+672,Visual Studio with Xamarin rendering display in designer taking a long time,1
+673,MVC 5 BeginCollectionItem Model Always Null,2
+674,Get all the distinct users through mongodb aggregation,1
+675,Add header to http request,1
+676,javascript: open window and print,2
+677,I am getting an empty XmlNodeList eventhough XML is wellformed,0
+678,ASP.NET MVC4 - ADO.NET - Saving a large number of files from ZipArchives to sql server,2
+679,C++ How to Reference Other Classes?,1
+680,Progress bar seems to be offset,2
+681,Code that works for a form control doesn't work for ActiveX control,2
+682,"How can I render an Angular directive in a popup window, allow it to communicate with the main window?",1
+683,Randomizing the display order of content using AMP,0
+684,Error during assets:precompile because of Javascript function default argument,0
+685,How to mask divs with a linear gradient mask?,1
+686,Completely wiping dotnetnuke cache,0
+687,intersect and topcount and order function in MDX query,1
+688,How to construct a new WPF form from a different thread in c#,2
+689,WPF - Is it possible to export DataGrid into PDF?,0
+690,'Unknown key(s)' ArgumentError,2
+691,Why do local variables in Magento have an underscore prefix?,0
+692,How to Send the Current Thread to Sleep,1
+693,Laravel Custom Ordering of Eloquent,2
+694,I am trying to get a public IP from an instance I am just starting up,2
+695,axios is not saving an Array in to MongoDB,0
+696,Taking forever to save a pandas dataframe from google colab session to my google drive,2
+697,Create a list of java methods that ultimately call a specified method,0
+698,Cleanup flatpak repo folder?,0
+699,Clang without GCC or MSVC,0
+700,How to give some margin between buttons? (database content),2
+701,Keycloak Bear-Only Client with and without Authorization Client Secret,0
+702,Case insensitive user input strings,0
+703,Mechanize::Firefox gets stuck,2
+704,sql query for join two tables of different databases that are in two Servers,0
+705,Python decompression relative performance?,2
+706,"What are ""Activations"", ""Activation Gradients"", ""Weights"" and ""Weight Gradients"" in Convolutional Neural Networks?",2
+707,"PHP-page and HTML-form submits look so messy, how to avoid submits to SELF?",2
+708,ipcMain: event.reply is not a function,2
+709,python grpc: setting timeout per grpc call,1
+710,"What is the means of terms ""Building Block"" in javascript?",0
+711,Hybrid demo not returning oauth request token,2
+712,Querying values in multiple databases,1
+713,How to find elem with espresso that doesn't have any specific information about it?,1
+714,sendto not working on VxWorks,2
+715,Flash/html not working on all browsers on Mac,0
+716,Cannot use polymorphism because of generic base class,0
+717,"Custom form shape slow to load, store Region on disk! c#",0
+718,Text align in Illustrator CS5,1
+719,How to save and retry reporting GKAchievement's after network failure?,1
+720,jquery not working in IE,0
+721,Comment Illegal Unicode Sequences,2
+722,HTML Table with scrollbar or select list with columns?,1
+723,Cycle animation,1
+724,Logic for 9 key keyboard to print qwerty keys,1
+725,java: is the default document of a JTextField always a PlainDocument?,0
+726,How to ignore warnings from external C++ dependency headers in Bazel,1
+727,FBOs render to texture and glReadPixels,0
+728,See dynamicly generated DOM and CSS,0
+729,"DataOutputStream, does it lose some bits",2
+730,Seperation of notification confirmation+storage and handling notification asp.net mvc,2
+731,Last 2 letters of the uri defining the used language,0
+732,Session variable assigned to data table and create object reference problem?,0
+733,Which Search / Tag system is better?,2
+734,Eclipse's WTP translation output,2
+735,Continuous Integration setup for ruby projects on linux server,0
+736,Implementation of WS-ReliableMessaging for Axis 1.4,0
+737,"Process.Start() throwing intermittent ""No application is associated.."" on .DOC files",0
+738,Simulate build provider in ASP.NET Web Application (.Net 2.0),2
+739,AS3: Splice two items in different places?,0
+740,Receiving SIGABRT error when launching TTPhotoviewController in iPhone,2
+741,Using Resteasy with javassist?,2
+742,jQuery validation - only show one error message,0
+743,Can we access orkut using RSS?,0
+744,predeclaration in c++,2
+745,DNS CNAME type Records have incorrect RDLENGTH fields?,2
+746,"when building a web spider, should you use recursion?",0
+747,Object reference problem when reaching the end of a XML string,0
+748,cfnetwork memory leaks in iPhone,0
+749,Haskell: -fglasgow-exts should one avoid code that requires this?,2
+750,Best practices for using @ in C#,0
+751,How to customize Dispform.aspx in Sharepoint List,1
+752,ASP.NET Sitemap .ResourceKey property is null,0
+753,"Abort due to constraint violation columns GroupId, idx are not unique",1
+754,LINQ to SQL Table List to Interface List,1
+755,PHP: Is it possible to call the class that created you?,1
+756,Printing a PDF from a Windows service,1
+757,$data findAll query in CakePHP checking values from second table,1
+758,"Excel, OleDb, and Leading zeros",0
+759,Custom Windows Workflow activity that executes an asynchronous operation - redone using generic service,2
+760,"How to open a ""nul"" file?",2
+761,MySQL select records that sums,2
+762,Good articles for Sharepoint Web Part creation?,0
+763,WCF and confirmations - do I need to send back a 'OK got it' to client?,1
+764,Master Pages fail to recognize new controls,0
+765,How to map classes in NHibernate using Roles or Composition,1
+766,"Pentaho data integration, csv input, add filename column",1
+767,condition do mark a pixel in an image,1
+768,"Multiple ""If"" statements in a batch file",1
+769,Struts2 - Get the url from error page,2
+770,Converting excel file to csv using python error message,2
+771,unexpected call to method or property access?,2
+772,angular.js:13424 Error: [$resource:badcfg] Error in resource configuration for action `delete`,2
+773,Java Multihreading Synchronization with Lock,1
+774,Flask: How to avoid generate any kind of answer for a specific URL,1
+775,How do I break the game when objects collide on Matlab?,2
+776,Visual C# storing and reading custom options to and from a custom XML in Appdata,0
+777,openCV : Detect object without displaying the webcam view window,0
+778,Resetting pointer to an array of chars,2
+779,my scrollview does not show the last item (Button),2
+780,Update state of component with componentWillReceiveProps,2
+781,Delay when loading image from Internet into CircleImageView in Android,0
+782,JS Promises - Angular - Can then be used on any function?,2
+783,Is there a way to ignore components PreferredSize?,0
+784,How to read line by line in a custom Django upload handler?,1
+785,Find today's date in a .txt file and print line?,1
+786,create an array and sort it in ascending and descending way [MIPS],1
+787,hostless DNS CNAME record,0
+788,How to schedule action at various timings from a list in Python,1
+789,How to remove time from Calender.js,1
+790,Split branch in two branches / Merge a branch selectively,1
+791,Custom django auth backend not logging the user with base login view,2
+792,Insert form data into two different tables on database through jsp page,1
+793,How to keep content both in single-line while aligning it to the bottom?,1
+794,Multiple criteria in Access query,0
+795,Unable to store comma values in a ClosedXML Cell with C#,1
+796,Python sklearn.linear_model: LinearRegression() ValueError occured when .predict(),0
+797,Localization in an iOS app,2
+798,"Crontab seems to execute script, but script doesn't work",2
+799,JQuery - Toggle <TR> in table template,0
+800,Return the Modulo of negative numbers in a vector R,0
+801,Parameter Error on Rails: `param is missing or the value is empty: exercise`,2
+802,Script validation required on data list option,0
+803,App build gives error,2
+804,Constructor-like statement in Java to call super,0
+805,Neo4j 2.3.0 cypher query logging settings and performance tweaks,0
+806,Why is my implementation of a map on a custom type not correct?,0
+807,Can't achieve CORS with Express.js,2
+808,Nginx block access to sub directory when sub directory name is unknown,0
+809,Why do I get null values for my instance of a class when they are not supposed to be null?,0
+810,Neo4j - complexity of search by indexed parameter,0
+811,Three Dimensional Boolean Arrays In Java,2
+812,"PySide import error Mac OS X El Capitan, Library not loaded: @rpath/libpyside.cpython-34m.1.2.dylib",2
+813,JavaScript | Angular | Controller As Syntax: Cannot Use `this`,0
+814,sum-aggregate function with non-unique values,2
+815,MS CRM What is the difference between [dbo].[Entity].[IsAudited] and [dbo].[Entity].[IsAuditEnabled]?,0
+816,Binding string field from child to parent component not working,0
+817,Issue With Pulling Remote XML Data into Oracle Database,2
+818,SetWindowPos moves window to different position every time,2
+819,Stop removal of whole table when rows still exist,2
+820,Showing which month had the lowest rainfall amount- arrays java,1
+821,I am a newbie to android development and I am having some problems,2
+822,Load two divs with a single AJAX call,1
+823,Why doesn't CLion link my project with OpenCV for Windows?,1
+824,Google Sheets - How to round SUMs across several cells once a number limit is reached,2
+825,Where is the kubelet on AWS EKS?,0
+826,Ionic application is not working on 4.4 and 5.1,2
+827,'RPC Server is unavailable' error but script still appears to work,2
+828,Problem when saving a png to jpg in opencv,0
+829,Linked List Stack Using Any Datatype in Python,2
+830,Navigation bar Large Titles are shrunk if data is loaded off-screen through an Rx datasource binding,2
+831,mysql container connection refused,2
+832,How to make each item in ListView clickable in such a way that it would call another activity?,1
+833,Get the corresponding starting local hour in utc c#,1
+834,Custom GIS Routes,1
+835,how to print List of Objects inside Object in Thymleaf?,1
+836,Write query with subquery in CodeIgniter Query Builder?,1
+837,Splunk doesnt return all the results - using rest API -,1
+838,Count the number of rows in subgroups in group by object,1
+839,How to transform a coordinate system into the origin coordinate system,2
+840,Golang template interprets html as plain text,0
+841,Is it possible or recommended to make the central repository as bare repository when git-flow initiated,0
+842,Getting error when running npm-run after git merging conflicts,2
+843,Angular-Nodejs SSL,1
+844,"how to compare the values of two columns using condition, and assign a value when that condition is met",1
+845,Searching through a file and seperate data in a file with a separator value in vb.net,2
+846,React - Filter list by gender or age,2
+847,Javascript Countdown Seconds Skip As I Add More Than One Timer Inside Page,1
+848,Python: Avoid repetition with .get(''),0
+849,How to read the legend text along with the radio button label when the focus is on radio button,2
+850,Remove one goal from plugin execution from parent pom,1
+851,Retrieve the first data from multiple almost the same or correct data in table,1
+852,Android ViewPager: Scroll to next item only when the previous item is scrolled to 90%,1
+853,Jenkins process gets killed when I close the putty session of ec2 instance,0
+854,How to make sense of this scala stacktrace?,1
+855,How can I find vulnerabilities in this code?,1
+856,How to fix ValueError: too many values to unpack?? PYTHON,1
+857,Python: writing HTML anchor points dynamically based on number of string finds,2
+858,Where in Django code put code disconnecting signal and doing monkey-patching?,1
+859,How to download a file from Google Cloud Storage and return it in Spring controller,2
+860,Can Cloud Scheduler trigger by user?,1
+861,Crash in a modified version of an official ZeroMQ mutithreaded example,2
+862,Show stream video in angular 8 with HTML5 Player,2
+863,Load files to Azure file storage using python,1
+864,How can countdown timer continue running even if app if close?,1
+865,What is the password they are requesting to generate key hashes for development environments?,1
